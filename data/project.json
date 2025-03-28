@@ -1,1 +1,47 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"JMU-AudiAnnotate","is_private":false,"title":"Houston A. Baker, Jr. Interview, 9/23/2004 (FF0136)","description":"Jerry Washington Ward interviews Houston A. Baker, Jr., camera stays on Baker","language":"en","slug":"FF0136","creator":"JMU-AudiAnnotate","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[{"tag":"Houston A. Baker, Jr.","category":"_uncategorized_"},{"tag":"Jerry W. Ward, Jr.","category":"_uncategorized_"},{"tag":"Speaker Unknown","category":"_uncategorized_"},{"category":"_uncategorized_","tag":"Jerry W. Ward, Jr.: Thank you. It reminds me, in some ways, of another poem entitled \"\\"},{"category":"_uncategorized_","tag":"Jerry W. Ward, Jr.: choices too-- how would you suggest to me that your life experiences, your autobiographical experiences, your hunger of memory, has indeed affected... two practices"},{"category":"_uncategorized_","tag":"Houston A. Baker, Jr.: Well, the acceptance of the essay came back saying, the readers love the work you did. They only have one suggestion, which you're free to follow or not"},{"category":"_uncategorized_","tag":"Jerry W. Ward, Jr.: some of us once believed poetry could give us"},{"category":"_uncategorized_","tag":"Houston A. Baker, Jr.: this in Albany, even as I'm watching it here now. So the global spread of the form, the popularization of the form was there, and it brought back. I mean, Manthia Diwara has written about this"},{"category":"_uncategorized_","tag":"Jerry W. Ward, Jr.: Because some friends and I have talked about collective"},{"category":"_uncategorized_","tag":"Jerry W. Ward, Jr.: will be very vulnerable to those forces that we also talked about this morning"}]},"created_at":"2025-03-28T17:45:08.382Z","updated_at":"2025-03-28T18:16:42.276Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Houston A. Baker, Jr. Interview, 9/23/2004 (FF0136)",
+    "description": "Jerry Washington Ward interviews Houston A. Baker, Jr., camera stays on Baker",
+    "language": "en",
+    "slug": "FF0136",
+    "creator": "JMU-AudiAnnotate",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Houston A. Baker, Jr.",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Jerry W. Ward, Jr.",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Speaker Unknown",
+          "category": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2025-03-28T17:45:08.382Z",
+    "updated_at": "2025-03-28T18:17:10.389Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
