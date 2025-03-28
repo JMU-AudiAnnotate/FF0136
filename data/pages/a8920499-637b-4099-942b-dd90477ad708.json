@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Another page with scintillating contents",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "another-page-with-scintillating-contents",
+  "created_at": "2025-03-28T18:43:27.757Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-03-28T18:43:27.757Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
