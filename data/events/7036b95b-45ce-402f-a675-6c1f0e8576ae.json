@@ -18,10 +18,18 @@
           "text": "Jerry Washington Ward interviews Houston A. Baker, Jr., camera stays on Baker"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Stuff..."
+        }
+      ]
     }
   ],
   "created_at": "2025-03-28T17:53:41.576Z",
   "created_by": "JMU-AudiAnnotate",
-  "updated_at": "2025-03-28T17:53:41.576Z",
+  "updated_at": "2025-03-28T18:25:44.147Z",
   "updated_by": "JMU-AudiAnnotate"
 }
