@@ -1,5 +1,4479 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "70574dbe-9f84-4ca1-bfa8-eb1be83a46f4",
+      "start_time": 5.28,
+      "end_time": 10.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, Jerry Ward, J-e-r-r-y, W-a-r-d."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "da15ab45-816a-4e0c-a9d1-c9232040d94e",
+      "start_time": 11.04,
+      "end_time": 15.09,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Houston Baker, H-o-u-s-t-o-n, B-a-k-e-r."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "36790a27-faf2-41fc-a91e-ce47649af3a7",
+      "start_time": 17.55,
+      "end_time": 30.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Houston, I think of this as being a continuation of a conversation we had some years ago about a Black critical enterprise, and I think of it as a kind of update. This time, rather than"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "b38fa8f4-0333-4dc5-ab2b-d5ef8eb121d9",
+      "start_time": 30.96,
+      "end_time": 45.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being very general, we're focusing much more on poetry. On poetics, your poetry, and the whole process of poetic creation. And to get us started, I'm going to ask if you'd be so kind as to read,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "fc905163-63a8-4096-bf42-1d7fef5b98e9",
+      "start_time": 46.53,
+      "end_time": 50.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not a Poem. It's on page 491."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "043b782b-4f52-4398-88df-26f5c996f24c",
+      "start_time": 51.83,
+      "end_time": 54.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "491. I will read this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2ce8b51a-0186-4caf-9975-79175e04bae0",
+      "start_time": 57.53,
+      "end_time": 71.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This is not a poem. This is not a poem, nor aesthetic experience. This is the story of my grandmother's hands chapped from white folks' wash, an account of her back spasmed from scrubbing floors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5857a933-9a35-4f2a-b65b-bffa8b58442d",
+      "start_time": 72.47,
+      "end_time": 85.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not a poem, nor icy art emotion. This is a narrative of my father's father, scraping pennies from a rocky economy, depression devouring everything in sight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "32fdad51-b8d1-4880-bb4c-80d9f43dfd6c",
+      "start_time": 85.73,
+      "end_time": 106.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not a poem, nor subtle tingle down your spine while shaving. This is a tale of my mother rebuked for calling a Black man, gentlemen, \"Lizzie, tell your daughter, niggers are not gentlemen.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4d29a2d8-6277-45bb-afd8-0b48d6b4201d",
+      "start_time": 107.87,
+      "end_time": 126.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is no poem. Nor am I blessed to be impersonal. I will make no attempt to distance you. Had you been there while I was growing up, Or even in the thin worn time of their decline, I would have"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c0d4eb80-0380-4140-96a8-ffa158d8c49e",
+      "start_time": 126.41,
+      "end_time": 134.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduced you. Allowed you to share the fine goodness of ancestral caring.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "afc293e3-e2cf-4de5-bfe7-d74ea6bf32ac",
+      "start_time": 135.47,
+      "end_time": 150.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. It reminds me, in some ways, of another poem entitled \"\\Beware: Do not Read this Poem What I want to ask is how does a poem which seems to cancel out its poem-ness, or"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "80bdfc24-62cd-4401-a5f5-6f0c07693156",
+      "start_time": 150.23,
+      "end_time": 154.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we might say one's set of aesthetic expectations, come about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4264dd2a-22e6-497e-9467-6f9f9a40a9c3",
+      "start_time": 155.72,
+      "end_time": 176.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, along the lines. And this always happens with us, we just move into sync. It's the hunger of that poem, which it seems to me is the hunger of memory, the hunger of desire, the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d24fd2d2-e871-4e4f-beb3-6ea7992dc135",
+      "start_time": 176.75,
+      "end_time": 180.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hunger for a certain kind of community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "23653f46-2942-4da4-a0e3-87a888ca7700",
+      "start_time": 181.13,
+      "end_time": 200.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that poetry at its best translates that hunger in ways that can seem self-cancelling. To assert the negation is, in some ways, a defense against starvation. You hope that people are going"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a2f1cf37-d8b3-4968-a274-daa24e3acba4",
+      "start_time": 200.57,
+      "end_time": 209.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to come to you and say, on the contrary, that's a really fine poem. Let me meet these people you're talking about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e7a6b49c-8044-4b84-a8aa-b18c65d6d767",
+      "start_time": 209.78,
+      "end_time": 223.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's in part bodily-driven by those hungers of memory, and in part, the kind of poetic negation and ruse that does bring one into community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "55160474-7993-4151-8935-906132efa081",
+      "start_time": 224.36,
+      "end_time": 247.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when I was first moving in ways that I thought were poetical-- there is always a backstory-- my wife of many years, when I would give her Ginsburgian beat-like lengthy pages, would often come back"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8d8d558c-bd2e-4759-b492-938ce05dacbf",
+      "start_time": 247.85,
+      "end_time": 254.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to me and say, \"This is not a poem\". So it works on a number of levels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "eeecf945-c01a-4d03-871a-dbcbc232b269",
+      "start_time": 254.76,
+      "end_time": 267.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. So the real poem had to come out of, in this instance, of some very important life experiences, learning experiences, which were exceptionally autobiographical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c15d5770-8e93-466c-bbe8-5f5754c532a7",
+      "start_time": 267.45,
+      "end_time": 268.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "b7139a61-f0c8-4ef8-977f-7f9570715243",
+      "start_time": 268.11,
+      "end_time": 280.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that is one of the reasons I'm interested in the poem, because I'm getting this resonance, right? And speaking of this resonance-- and resonance thinking of space and our"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6b278984-fc26-4235-adeb-3a75286ced66",
+      "start_time": 280.5,
+      "end_time": 300.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "choices too-- how would you suggest to me that your life experiences, your autobiographical experiences, your hunger of memory, has indeed affected... two practices: your poetic practice, and your"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "9c22cc4c-f5f8-4d0a-8ce2-d6128095ff8f",
+      "start_time": 300.93,
+      "end_time": 301.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "critical practice?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "655fb761-401f-455d-89a2-18fb67cf445e",
+      "start_time": 303.19,
+      "end_time": 329.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think one of the most important things about my discovery and turn to the autobiographical or the memoiristic was that it created entirely new and solacing, soothing, comfortable"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5179cebc-e548-43bd-9019-c95270901916",
+      "start_time": 329.71,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "space for movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f64cc8b6-5876-4d26-9a30-95296ab331b3",
+      "start_time": 331.72,
+      "end_time": 350.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I came through graduate school at a time when one was supposed to approach formal greatness of white, mainly male poets, without emotion, and to allow them to say whatever they pleased."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5de5710a-1953-45d4-9af3-3de323f50b53",
+      "start_time": 351.1,
+      "end_time": 364.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So if there was a nigger in the poem, and you sitting in the class, as the only Black graduate student responded to that in emotional ways, you were told that this was the \"affective fallacy\". That"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3d045ce1-0a95-47cd-89e1-fa28db7cc126",
+      "start_time": 364.15,
+      "end_time": 374.95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you had allowed your emotions to creep in, that you were taking it personally, and that poetry was not personable. Poetry, T.S. Eliot tells us, is an escape from emotion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2645cea2-04cb-4c82-8f75-37f144273077",
+      "start_time": 375.28,
+      "end_time": 392.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I pretty much got schooled, and learned a technique which was very useful, of close reading in those graduate days of training. And when I moved into Afro-American literary theory and criticism I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "dce2f262-8c68-4daf-ab0a-57e2c9102e53",
+      "start_time": 392.17,
+      "end_time": 405.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "was, number one, quite emotional. It was an amazing period of discovery, I was reading literally 20 documents of one kind or another a day, I was using the Beinecke library at Yale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "fb795a4e-f751-4ad6-8a9b-fbeaa6a24633",
+      "start_time": 406.9,
+      "end_time": 423.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was coming to that kind of recognition of myself in the work. And it took a while longer to realize that as a critical practice the integration of this personal emotion, this affect, this memory"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "0427f3e3-f2c5-435c-8dc3-b809a4e5ad16",
+      "start_time": 424,
+      "end_time": 437.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of one's own life, was absolutely essential to any critical or theoretical essay that was going to be seasoned, as it were."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "45bf8066-fd7b-4c06-b7d3-52eefb31ed8d",
+      "start_time": 437.65,
+      "end_time": 458.95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was going to reflect home training, that was going to be useful for a community-- constructed, imagined-- of people who would say, \"aha, that gives to the work that you do a certain flavor that,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "747bed78-e92c-406e-921b-d3561f396687",
+      "start_time": 458.95,
+      "end_time": 468.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "had you decided to remain impersonal, emotionless, formalistic in your criticism, we wouldn't have found, and we feel empowered by.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e5e329b4-7315-4301-947a-ebb85f07a3f1",
+      "start_time": 469.21,
+      "end_time": 484.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it draws people to you when you do it in a way that is connected. I mean, it helps to make the critical point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d15024db-3535-4d8b-9dd5-8f1152d342e4",
+      "start_time": 485.11,
+      "end_time": 497.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think just telling things about my life in general is in any way interesting. There are many more interesting lives. But I think when you try to integrate the memoiristic as part of your"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "36c30675-5618-4a32-ab86-196179d66f2b",
+      "start_time": 497.53,
+      "end_time": 504.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "critical practice, and work hard at it, it does draw people to you and empowers them, provides a kind of community voice, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "bb16817d-65c4-4690-a009-1d12c1952c7b",
+      "start_time": 505.17,
+      "end_time": 509.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. But does that hold equally true for your poetry?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "db8d5166-0735-4553-9d79-b5d6d091e8c0",
+      "start_time": 509.75,
+      "end_time": 526.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, actually, despite my wife's warnings, in my early poetry I thought I would still not mind being a beat poet. So my first volume of poetry is a kind of a combination. Some unkind"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "87ab3d49-4cb0-4b93-a919-8d6a92f68f0b",
+      "start_time": 526.7,
+      "end_time": 535.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people might even speak of it as a hodgepodge. But no matter where you travel, you still be Black. It's still one of my favorite poems of all those that I've written."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4189f799-39f1-4146-bf76-4465ea394c57",
+      "start_time": 535.4,
+      "end_time": 553.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think the fact that I had looked to Leroi Jones, Amiri Baraka, as a model of the best of the beats helped me to find something of the blues in some of the shorter lyrics in that first volume of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f29a58a6-25cc-4698-b89e-c4c70869d223",
+      "start_time": 553.88,
+      "end_time": 554.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8b88115e-b9e8-468c-8346-4b6236cca44c",
+      "start_time": 554.93,
+      "end_time": 559.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, in fact you wrote very well about the Baraka in the premier issue of Minority Voices."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e1819cdb-1f95-4007-b1df-cbeba0f22716",
+      "start_time": 559.16,
+      "end_time": 560.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2c01c405-5b4d-4854-9787-f466a7faed60",
+      "start_time": 560.64,
+      "end_time": 576.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The piece that you did [Inaudible]. And I'm interested in a kind of boomerang because when you say that, no matter where you travel you still be Black, that is echoed in some of your most recent"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "14c9f5fd-dad2-41eb-9e69-677862f8dabf",
+      "start_time": 576.54,
+      "end_time": 577.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "criticism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "97089fae-18c5-4f0b-8be1-c51506e0b078",
+      "start_time": 577.78,
+      "end_time": 596.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It certainly is. I mean, when I think now about the vagaries of life and the reasons that one chooses a particular venue for one's work, I'm a bit astonished that my wife and I are"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "cb167749-64cc-4d66-b2a4-c503c10f42ab",
+      "start_time": 597.04,
+      "end_time": 604.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "living in a small 100.000 population community in the South,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d4a0ff5a-679e-4a55-86e2-212649c28130",
+      "start_time": 605.26,
+      "end_time": 624.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where it is delightfully and celebratorily impossible to go out the front door and travel to any place without seeing a lot of Black people. And Black people of various classes and castes and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4f31a116-d7fe-4d6c-875c-3b756e416dc0",
+      "start_time": 624.28,
+      "end_time": 631.69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "occupations. It is impossible to travel in that community without seeing Central American and Mexican American people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "58de2e70-9931-42d1-aa64-6831de754a8b",
+      "start_time": 631.9,
+      "end_time": 643.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if you forget your discount card in Kroger's, right, unlike in the chilly north, there are 18 people handing you their cards to swipe-- we know you need the money. We all need the money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8bc68193-c8c5-4354-b483-dff4a4e3a193",
+      "start_time": 645.46,
+      "end_time": 657.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Six years ago, had you told me I would have turned south again and gone geographically back to a place where I travel comfortably among people of color in my everyday life, I would have said, Oh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "caf4ff46-64d1-45c1-b7e1-dc1f96a2c7b0",
+      "start_time": 657.49,
+      "end_time": 660.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jerry, stop. No it's not going to happen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3419b2eb-e6a9-439b-b646-7e1d84dd03bd",
+      "start_time": 661.27,
+      "end_time": 676.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think there is that impulse, that impulsion to be in a place where the work that you're doing is not only regionally supported-- for indeed, the South has been a kind of great mother, and father"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f2366e7d-d977-4bca-821f-cfca4228403b",
+      "start_time": 676.27,
+      "end_time": 693.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to me and my work and criticism. But also you're motivated by the demographics of the environment. So yeah, no matter where you travel, it seems that you go and kind of circle and come back upon"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c213019c-5c1d-48d5-8857-5eaeaebaf1ad",
+      "start_time": 693.82,
+      "end_time": 695.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yourself in uncanny ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4dcd5fca-805f-49cd-a108-9119106e9fe8",
+      "start_time": 696.69,
+      "end_time": 708.51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. Now I have to ask the question that people all want to know answers to, following Ralph Ellison. Who are your literary ancestors?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f4ea2ed0-cd4f-4636-bab4-2f1292f864a7",
+      "start_time": 708.72,
+      "end_time": 709.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "98dd29a8-589b-49ed-9f4d-c5a5db09e975",
+      "start_time": 709.41,
+      "end_time": 710.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a Southern question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6d376780-aac8-488a-9cba-8eaee5a12bb7",
+      "start_time": 710,
+      "end_time": 724.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a Southern question. Well, you know, I thought at one point, in the talk that I was graciously invited to give today that I would preface it with two anecdotes and-- done very"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "9db7a3ca-c92a-45e1-b81f-1f284a10bb41",
+      "start_time": 724.16,
+      "end_time": 735.95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "quickly. One was when I took pen in hand, and decided to take on precisely Mr. Ellison and the True Blood episode in Invisible Man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "073cdcdd-6552-4d96-a70d-7c2b1d0b5aa9",
+      "start_time": 737.39,
+      "end_time": 754.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wrote the essay when I was working on working to become a theorist, a literary theorist. So it's interdisciplinary, but the impulse to the essay was the blues. So I wrote the essay, I sent it off to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "df5e3cda-7eae-41ae-8e18-54e5546bc978",
+      "start_time": 754.97,
+      "end_time": 766.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the premier, arguably the premier journal, the certification, the academy of literary criticism, PMLA Publications of the Modern Language Association."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e005c671-2b75-4fc2-8e21-34c089c17ead",
+      "start_time": 766,
+      "end_time": 778.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got back a first note from Judy Gotan, who remains a friend to this day and remains at Modern Language Association to this day, and she said, Congratulations! --And I thought, \"Man, I did this. I'm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "323e62d4-859a-43b7-8fb1-7bbede41d6a2",
+      "start_time": 778.96,
+      "end_time": 795.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ready\", You know?-- You're among 15% of the essays that will go now to the readers. And I was like, there's another step? There was. There was the 5%, and then there was finally the acceptance of the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3c22bc4b-6e9c-474c-a45a-79201b587761",
+      "start_time": 795.07,
+      "end_time": 795.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "essay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "52d9cab7-823e-46c8-ab4c-d7b1d3bdeaac",
+      "start_time": 795.73,
+      "end_time": 808.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the acceptance of the essay came back saying, the readers love the work you did. They only have one suggestion, which you're free to follow or not: Could you take out the whole section on the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "da171dc1-fbc5-4008-859a-516ee62349e1",
+      "start_time": 808.84,
+      "end_time": 815.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "blues? And I thought, \"Wait, wait, guys. I'm trying to introduce the blues to the academy, to PMLA.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "77a9fa6f-3109-4e40-8606-1a2635f3065a",
+      "start_time": 815.77,
+      "end_time": 826.51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay? The second anecdote works in exactly the opposite way. I was with a group of really eminent academics who had drunk far too much of whatever it was they were drinking, and so they were a bit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5590b29d-6193-4831-922f-0875df83c9f5",
+      "start_time": 826.51,
+      "end_time": 838.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tipsy. They were all white. And I don't know what the perverse impulse was on my part, to say-- we must have gotten to discuss the vernacular art or other literatures-- and I said, Well, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2ce09b73-1b8f-462c-8a42-b50b31d70922",
+      "start_time": 838.9,
+      "end_time": 849.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "T.S. Eliot had a profound influence on a person like Kamau Brathwaite, and it's Eliot's vernacular rhythms and the integration of song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "7ef2499e-dcd9-4e9a-b33b-55e1b6bd5c16",
+      "start_time": 849.67,
+      "end_time": 863.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the tipsy fellows looked at me, he said, \"That's a ridiculous notion. Thomas Stearns Eliot, among the darkies? The funniest thing I've ever heard.\" So when one is looking at ancestors,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d325b650-7116-4ad1-8670-f141998e8dd1",
+      "start_time": 863.86,
+      "end_time": 876.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "right, you say, well, you take the blues to the academy and they say, take it out. Then you take T.S. Eliot right in his motion toward vernacular poetry as their celebrated icon, and they reject that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "dcbac9bc-3614-4f32-a1fe-bd97958fc070",
+      "start_time": 876.46,
+      "end_time": 876.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "41cee7b1-179f-4aed-90c7-c40a8ab2fe02",
+      "start_time": 877.6,
+      "end_time": 896.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So one is always, I think, being challenged to say well T.S. Eliot is as important to me as the blues. I can quote you chapter and verse of Eliot's criticism, and we were required in my first major"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "ffe2d00e-30c7-4b96-8346-129658a395c7",
+      "start_time": 896.86,
+      "end_time": 903.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poetry class at Howard University to memorize the first 30 lines of The Wasteland."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "0b250425-f605-4112-addb-97f0a6ff1ce8",
+      "start_time": 904.45,
+      "end_time": 921.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that brand of modernism is very important to me. I've already mentioned the beats. I've mentioned the connection of the blues form, rolling as blues and jazz through that whole bohemian movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "7a00484b-a6c8-4025-a9cc-99f5085ff266",
+      "start_time": 922.42,
+      "end_time": 933.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wright is perhaps the person that as artist, writer, striver in the world, I would most like to be like when I grow up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d878b82b-984c-463e-93c3-fd0693f2a6d0",
+      "start_time": 935.11,
+      "end_time": 951.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I love, I just combatively love, fighting pitch battles with those who see the the downside of Wright. And it's there, of course. I mean, he's autodidact, he's self-taught, but he's brutally and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6572eedb-234e-4496-a6ae-bc7ebaa5a445",
+      "start_time": 951.13,
+      "end_time": 958.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fiercely honest about life. And he's incredibly reaching in his criticism and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "af23ad47-a411-49b7-b4b8-ef69e84ebc1b",
+      "start_time": 958.53,
+      "end_time": 966.69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And incredibly relevant to us and to enabling us to open up some of the problems of 21st century."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "50750dec-1e59-497c-8dab-4dc5ee6de1ac",
+      "start_time": 966.99,
+      "end_time": 967.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "64c0f064-28ff-42bb-8963-62fe6eb5e4a2",
+      "start_time": 967,
+      "end_time": 979.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think one of the problems of the 21st century, and it has been talked about quite a bit at Furious Flower, has to do with the technology and sound and the future of poetry and other"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "58acc952-4642-4fcd-9093-2b8c89c65045",
+      "start_time": 979.93,
+      "end_time": 980.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "forms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "db6abf41-2891-4b1c-898d-dcd3ce8446f7",
+      "start_time": 981.01,
+      "end_time": 997.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I would like to go back to something that you wrote 11 years ago, Houston, in rap-- Black Studies, Rap, and the Academy, where you mention that, and I'm going to quote this, your graduate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8f6f8b1a-7c03-43f6-af2f-2110b389eb5f",
+      "start_time": 997.24,
+      "end_time": 1011.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "students, quote, \"believe the function of poetry belongs in our era, to a telecommunal populace space, in which a global audience interacts with performative artists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "25e73fb3-2115-448e-b522-a547fe674ec0",
+      "start_time": 1011.73,
+      "end_time": 1027.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A link between music and performances, specifically popular music and performance seems determining in their definition of the current and future production of poetry.\" And I have two questions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "775dd7fe-41a4-4338-ad6d-54a69c9c0507",
+      "start_time": 1028.47,
+      "end_time": 1030.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "related to that particular passage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "22b46dc9-5621-4bb6-9c4f-bc505876846c",
+      "start_time": 1031.44,
+      "end_time": 1050.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this still, you're thinking of what the case is with poetry? And secondly, if it is, what is happening to the Lowground and Inaudible Valleys? The categories of spirit, soul, character, and what"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "eb6dad48-3f00-44eb-92a7-e0a36a5f0d50",
+      "start_time": 1050.31,
+      "end_time": 1053.67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "some of us once believed poetry could give us hope?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d53a706b-a008-416f-9887-205cfce422e3",
+      "start_time": 1054.75,
+      "end_time": 1076.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, you know, I think that the burst of rap-- hip hop culture, as the larger picture-- on the United States scene, so well chronicled by Tricia Rose and Michael Eric Dyson, and Robin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "bcf49691-91e5-4e2a-b2bd-5d5d937f2ba2",
+      "start_time": 1076.53,
+      "end_time": 1087.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kelly and a number of other people, stunned people who had only engaged in the formal study of poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8a4f2999-7680-4ab5-b53f-8ab824929b9f",
+      "start_time": 1087.27,
+      "end_time": 1102.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remember, these graduate students mentioned are mostly between the ages of 22 and 26, or 27. And as much of a progressive as I like to think of myself being, I suspect that some of their training in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a32d6ad3-059f-4e61-b0e0-12688190083f",
+      "start_time": 1102.78,
+      "end_time": 1116.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poetry was not substantially different from what I got in graduate school. Where they were told about the formal craft-- it has to be written, there have to be prizes and awards in certification, the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "9622ffb2-ea53-4e1a-8644-2fe84779767a",
+      "start_time": 1116.76,
+      "end_time": 1120.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Academy of American Poets has to have signed off on you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "182368a9-d0c5-4fb4-81ca-a7d3dfb387b6",
+      "start_time": 1120.66,
+      "end_time": 1141.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so when they witnessed something that you and I know, the performativity of a vernacular at work on MTV, and BET, and on stages, and at poetry slams and venues that were street corners, all over"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d0bc3b5f-cfdc-4de6-9fe9-fbc87dffcae4",
+      "start_time": 1141.54,
+      "end_time": 1155.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the United States of America. I mean, there was a slam-master in Kansas, there was a slam-master in Toledo. And so spoken art had come to their attention, in part, through television and a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "bd58b9dd-748b-475d-8a06-b079e6423b9d",
+      "start_time": 1155.67,
+      "end_time": 1157.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "telecommunal economy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4affe653-d880-4a62-b5c5-79000fe0f33d",
+      "start_time": 1158.4,
+      "end_time": 1171.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It spread in the same way. That is to say, you and I have both been to the continent, to Africa, and seen CNN playing in the places that we were staying and realizing God, my older brother is watching"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "290f386a-5670-498e-a170-620fe57ab443",
+      "start_time": 1171.18,
+      "end_time": 1182.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this in Albany, even as I'm watching it here now. So the global spread of the form, the popularization of the form was there, and it brought back. I mean, Manthia Diwara has written about this when"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "309b3b65-baef-42c3-bd76-67e66441bd88",
+      "start_time": 1182.64,
+      "end_time": 1188.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he got to Africa, camera picks up moves from traditional African dance and brings it back, and dress, and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d9b0a474-ef7e-4426-b0e4-ce2010c04bf6",
+      "start_time": 1188.61,
+      "end_time": 1202.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think students were overwhelmed by this. They had never seen anything like it. At present, it seems to me-- and Tony Medina would be one of the people who I think would sign off on this-- it's"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a082371f-692d-45ae-a479-b4befc33938a",
+      "start_time": 1202.59,
+      "end_time": 1208.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "become a battle, contestatory that is spoken arts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "60a6a6bf-2deb-400d-9358-5ffdea1f2d35",
+      "start_time": 1208.74,
+      "end_time": 1230.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And many people believe that having some command of the language and the license to go out of an evening to wherever the venue is, makes them poets. And Tony says that the combative nature of this is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "1b3ed09b-ab33-4663-8f8c-c3e337605dac",
+      "start_time": 1230.13,
+      "end_time": 1237.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "not what Lowground and Inaudible Valleys and a communal spirit and a folk vernacular coming into play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "cc538da4-6f35-410a-808d-080be5463187",
+      "start_time": 1238.44,
+      "end_time": 1253.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Part of it has to do with the money. We talked about that today, of course. So, I mean, in an earlier session of Furious Flower we talked about the economics of rap. When places begin both buying and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e12a8236-2b2c-4262-8b92-23803cf9f776",
+      "start_time": 1253.47,
+      "end_time": 1267.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "selling the independent labels, it becomes homogenized. The worst aspects of the form or of the content are put forward as all-day viewing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "9fa359d3-a14c-4d72-9217-4065d1015cdd",
+      "start_time": 1267.99,
+      "end_time": 1284.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And by this I have particularly in mind the derogation of Black women and the misogyny of the form. Dealing with its social constructedness-- people who have a Master's degree from Bard and their"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "47a0fff5-c7b8-4e72-8ad3-b204edb11913",
+      "start_time": 1284.61,
+      "end_time": 1300.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undergraduate degree from Yale, dressed in pants falling off of them, talking about how they are about to take care of gangsta business. So I mean, I think currently the falling off in what is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3581f5ae-ae9d-4d93-a2dd-1742b5ba1ea6",
+      "start_time": 1300.12,
+      "end_time": 1306.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "offered, both nationally and globally, would produce a different answer in my classroom, if I were to ask students about poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "16a210a9-34fa-4e7c-ac85-9c21b5d1ed1c",
+      "start_time": 1306,
+      "end_time": 1320.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because the answer that you've given us, certainly causes me a little bit of anxiety. When I'm reminded that Furious Flower two is a celebration of a tradition, and I'm wondering if this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3a5528c8-3077-4c33-b733-3e1109dc8a3c",
+      "start_time": 1321.39,
+      "end_time": 1335.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tradition, and this emerging tradition which is truly international, will completely eclipse the tradition that we usually have in mind when we refer to African American poetry in such a way that it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "537e65c5-00f0-45ab-a32b-daffb0066f7a",
+      "start_time": 1335.58,
+      "end_time": 1341.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "will thoroughly eradicate and replace that tradition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d9db0ee1-2397-4776-b48b-bae0f7ad3191",
+      "start_time": 1341.87,
+      "end_time": 1355.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it will be a tremendous loss. And I don't know exactly, Houston maybe you can have some suggestions, on how to initiate that particular conversation between the generations or among the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "1d9e253c-c8b5-4c89-9fcf-4639cc3051fd",
+      "start_time": 1355.01,
+      "end_time": 1356.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "generations of poets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "72efda70-9cae-4591-ac7a-e389d2525fa1",
+      "start_time": 1357.05,
+      "end_time": 1378.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very, very difficult to do. I mean, I-- the recent study-- NEA, I think it was-- on reading, and who's reading, that revealed that the reading habits of particularly the young have"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f0828190-f7d5-4ec5-b410-c9d67c088450",
+      "start_time": 1378.53,
+      "end_time": 1386.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "gone, just, away. They don't, they don't exist. I mean, it's something like a 30% drop in people who've read anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f3a8a0db-8d5b-4a8c-97fe-5bddefb1ea74",
+      "start_time": 1386.63,
+      "end_time": 1401.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, it's not simply reading poetry, but they haven't read novels, they haven't read plays, they don't read the newspaper. So given that sort of depression economy of reading, among the young, it's"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "cc37c22f-3cd2-42f5-9886-9575e4ce6270",
+      "start_time": 1401.24,
+      "end_time": 1410.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "difficult to think of a traditional presentation of our tradition to those students."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "56e4d88b-8f67-4c14-968b-1f671a8d9646",
+      "start_time": 1411.17,
+      "end_time": 1428.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems to me that one of the incumbencies-- and you know this well, because you do it magnificently-- for those of us who occupy privileged spaces of speaking, that gives us access to people who"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "524b7ccf-64bc-4654-a1d6-eff8dda8304f",
+      "start_time": 1428.36,
+      "end_time": 1440.45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "want to be there for the most part, is a creative, innovative, improvisational pedagogy. I think this is completely necessary these days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "64b66bb7-d3b6-43b9-84b5-8aeeb8f8d64a",
+      "start_time": 1441.53,
+      "end_time": 1462.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I gave up the notion of impersonality, and form alone as the drive of criticism, I gave up the same in terms of teaching, traveling places to address audiences. And it seems to me that if we can"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "abcbfc35-910f-4139-9a57-2a6e71974fe2",
+      "start_time": 1462.65,
+      "end_time": 1473.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "demonstrate the best of our tradition in our privileged, articulate moments, with people who want to be in the room, then we can stir interest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5d8180d0-12aa-4afb-9674-1f9d3ef64f19",
+      "start_time": 1473.45,
+      "end_time": 1489.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And once one has stirred interest, you can send people out-- indeed, with my best students, I've been able to do that-- with whole libraries, and they get completely energized and excited and they"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "aca632c2-ec12-4fe5-885d-49908664032b",
+      "start_time": 1489.56,
+      "end_time": 1496.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "want to talk endlessly to you about these things. So I'm not discouraged at this point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d9f7b285-1d05-4c09-8080-d26bf0a35d9c",
+      "start_time": 1496.64,
+      "end_time": 1517.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it is much harder now given the social environs, globally, and the depression in reading that's upon us. Harder than it was in, say the '70s, when everywhere, barber shops, beauty parlors,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "641543af-825b-4c9a-bf78-497153a65caf",
+      "start_time": 1517.34,
+      "end_time": 1523.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "churches, there were reading clubs. People were carrying copies of Fanon, people were carrying copies of Gwendolyn Brooks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "167e594c-039c-4e6d-8f24-18f536dc7e80",
+      "start_time": 1524.63,
+      "end_time": 1537.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And bookstores were there-- independent ones, which are virtually impossible to keep going these days. In those independent bookstores, people were having readings, they were coming from out of town"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "23158771-236a-4ae0-9b8c-c8ffb540a22a",
+      "start_time": 1537.59,
+      "end_time": 1545.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to Mr. Michaux up on 125th street. So we've lost a lot of that immediacy that made the job easier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "89c23c2b-f512-4ba6-8f35-ec2ed8d5c5f4",
+      "start_time": 1546.11,
+      "end_time": 1565.19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, I'm a partisan of Blackboard as an internet tool in my teaching. I think a really first-rate website can stand one in awfully good stead. And those people who are not reading books"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "1edcfea9-37bc-4698-8f35-9c445e8a3306",
+      "start_time": 1565.19,
+      "end_time": 1577.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bought in Barnes and Noble and Borders are reading what my assistant puts on of Gwendolyn Brooks and Robert Hayden and-- because it's the assignment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d175f3ca-6c43-425e-9fe6-edea014a7fa9",
+      "start_time": 1577.37,
+      "end_time": 1580.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and the Blackboard is righted by use. It's a wonderful tool--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c2350719-e904-457a-b575-20ff90ad2a1d",
+      "start_time": 1580.88,
+      "end_time": 1581.51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a wonderful tool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "93402287-1e4b-4023-832b-fbe6239c5507",
+      "start_time": 1581,
+      "end_time": 1584.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Except that you have to know it's not the answer. You have to do a lot of work to be able to [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "525da8d7-9f02-4f6b-9b8b-dc36fe12f120",
+      "start_time": 1585.23,
+      "end_time": 1587.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You do! You do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "49129266-4a8b-4bcc-afdd-c9162b8a7ccf",
+      "start_time": 1587.84,
+      "end_time": 1599.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have two final questions, Houston. When we-- and your wording reminded me so much of this conversation from previous years, about what we were very-- said, Oh all these people are"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "b31a7fe2-9569-494e-ab91-bb73a63f6d35",
+      "start_time": 1599.24,
+      "end_time": 1600.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "reading, all these people are reading poetry!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "7d75efa0-9706-4a2c-a725-8e2461627dae",
+      "start_time": 1600.35,
+      "end_time": 1600.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "1331305a-6cf3-489c-8437-eb16c62c41fb",
+      "start_time": 1600.77,
+      "end_time": 1601.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we can't say that anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3bf9b973-b6db-4038-aa32-69116b89fae9",
+      "start_time": 1601.91,
+      "end_time": 1602.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No we can't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "42267650-7f99-4a32-af79-16a218e69079",
+      "start_time": 1602.36,
+      "end_time": 1617.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we also had in our youth then a kind of arrogance of believing that without prescription that we would create, African American poets had various roles to play. And are we now in a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "57ec8eba-ae16-4d42-bf5a-94f0ea92b131",
+      "start_time": 1617.96,
+      "end_time": 1624.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moment when we can't even speak of an African American poet's role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "fca8f867-5bba-4ff7-9f91-050b7d6c1c3d",
+      "start_time": 1625.04,
+      "end_time": 1649.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I don't think we're there. It seems to me as I look at folk who, like me, are getting grayer and grayer of hair, they have not turned away from their self-designated role as poet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3a9b4c99-1a3b-4679-94db-54bae4614ab6",
+      "start_time": 1649.97,
+      "end_time": 1650.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for the people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "80731b18-9419-4a15-8a89-3abd69e0b437",
+      "start_time": 1651.08,
+      "end_time": 1670.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, of course, of Sonia Sanchez in this this way. The late Gwendolyn Brooks never abdicated that role. I have to believe that some of the younger poets who are going out to, despite the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "10f050cd-1c41-4cc8-a625-afaa897fa4e7",
+      "start_time": 1670.76,
+      "end_time": 1674.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "combativeness of them, some of these spoken art venues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "ef4c29ec-6512-40e7-a67b-00682f166572",
+      "start_time": 1674.42,
+      "end_time": 1687.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I saw a wonderful piece on spoken art written by a person who is at Columbia Teachers College, a young woman who, I think she may be teaching there now. But I mean, what exists as a community of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6801db36-3518-4763-a64c-b3f35c04eccb",
+      "start_time": 1687.83,
+      "end_time": 1704.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people in these sites, and people who do come to perform, who bring their work to the table, I think are committed in the ways of a Baraka or a Sonia Sanchez, or a Haki Madhubuti to a specific"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "ee66d583-c12d-4a4b-97c6-78859bf45107",
+      "start_time": 1704.18,
+      "end_time": 1704.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "audience--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3fe42f39-285b-4ccb-a76e-92d6a93e45b8",
+      "start_time": 1705.86,
+      "end_time": 1724.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "doesn't exclude anybody but it's principally African American. I think people are trying to tailor their observational practice to important realities of the world in which we live. So I think we're,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6b1ee5e7-4004-4fb8-96ca-d26bde221984",
+      "start_time": 1724.1,
+      "end_time": 1741.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the poets, we're always going to have with our community and playing a role of shaman, conjurer, medicine man, medicine woman, and helping us in our daily lives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "7d8ae87e-70da-4779-90e2-a6b0effbfdee",
+      "start_time": 1743.18,
+      "end_time": 1757.19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gwendolyn Brooks said, \"we are each other's/ harvest:/ We are each other's/ business:/ We are [each other,] each other's/ magnitude and bond.\" And at the Furious Flower conference ten"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8a4df963-7c4f-41fc-b64d-a3af0a44c0bb",
+      "start_time": 1757.19,
+      "end_time": 1766.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "years ago, there was a sense of being bonded into a collective. In what ways do you find this true now, and how has that changed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "04de239b-01fc-4cc6-86b1-f44b3c7ce0a8",
+      "start_time": 1767.3,
+      "end_time": 1783.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because some friends and I have talked about collective, the feeling of being in a collective and how that really has to be measured against the hard, real politics of illusionary communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "7f2345d1-7659-43dd-9a2e-cd3bdce22ae2",
+      "start_time": 1783,
+      "end_time": 1806.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I have written recently that the one thing that was said by an emergent middle class, circa 1971 or '72, the one thing that was said to the Black majority was goodbye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4e01e3f4-29e4-4757-abce-5231698319b9",
+      "start_time": 1807.36,
+      "end_time": 1827.67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that the class formation that is the Black middle class in the United States now--  comprising actually small numbers, but people try to make them large, to say that everything is alright and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2a6ce4b1-f8f0-4a44-aea3-a9810bbfb9a5",
+      "start_time": 1827.67,
+      "end_time": 1830.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. King really did fix the American racial problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "b0ccc78e-6bbc-412a-ac3e-ca874f7802e3",
+      "start_time": 1830.91,
+      "end_time": 1848.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we're talking 25 to 26% of the African American population, who probably are best positioned financially and politically, socially, to make a difference, for the most part are not interested in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a0a33d64-6221-4c3d-a93c-7ffc699a4ef5",
+      "start_time": 1848.94,
+      "end_time": 1859.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "making the kind of difference that I think you imply when you talk about the building of community. Each one teach one, you gotta reach back in order to go forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4cc510b9-0ea5-4cb6-8df4-bb0fc2de4b52",
+      "start_time": 1860.49,
+      "end_time": 1874.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The only way that we can consider ourselves in any way well-off or safe is by realizing that No Matter Where you Travel, you Still be Black. That we must be concerned about the Black majority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "0a308d39-229b-4980-9d70-445c726e7506",
+      "start_time": 1875.04,
+      "end_time": 1876.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's been lost."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "ff24cc12-8b45-4bc1-8fff-c3bd11f0e19e",
+      "start_time": 1877.74,
+      "end_time": 1899.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, that ascension has put a person, you name it-- Arnold Rampersad at Stanford, Maryemma Graham, Kansas-- we could just go across the ports of access that have been established for us"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3be9bf2c-42a8-46d8-a9ed-52736d5467a1",
+      "start_time": 1899.52,
+      "end_time": 1906.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as a result of affirmative action. That doesn't mean you didn't work hard or that I didn't merit being in the places that I am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "79f9df72-fee9-4846-9912-07337c1f1531",
+      "start_time": 1907.29,
+      "end_time": 1922.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think it's a complicated time. I do think the new venues that are available in waves and numbers-- we were 2%, I think when we talked we're 5% now. It's not monumental, but it's a gain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d6a3aa82-0a7e-45cb-a78c-243527a71dd9",
+      "start_time": 1923.52,
+      "end_time": 1941.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think if we we continue, in the faith as it were, to look toward the strategic positive advancements that we've made, the technology that will help us to forward those conferences like Furious"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f978dc11-79a6-4073-9707-37796ceb9814",
+      "start_time": 1941.13,
+      "end_time": 1957.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Flower that, as I said to somebody this morning, were unimaginable when we had that first conversation with professor Joanne Gabbin receiving the university's fifth service award ever given."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a3151f47-c6f7-4af4-b9a8-c5aed89725ad",
+      "start_time": 1958.56,
+      "end_time": 1977.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think there's a lot of reason to hope, Jerry. And I think those people who are working now, in the trenches, young and old, are full of energy. I don't think there is any chance of winning back a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d608d91c-44e7-42ef-abcd-97606693e345",
+      "start_time": 1977.34,
+      "end_time": 1984.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "large proportion of that Black middle class I've just talked about. And that's too bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "b3729b6e-7c51-4d5d-8d59-ddea4e9ba7f7",
+      "start_time": 1985.8,
+      "end_time": 2002.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, one of the interesting things is I'm sure all of us who are in these, again, articulate positions of speaking in traditionally all-white institutions have a lot of white students"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2bcce6fd-9f8c-4e80-8cc2-a7c0960bfdc9",
+      "start_time": 2003.08,
+      "end_time": 2012.05,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who are often quite well financed, and are ready to go into the trenches themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "021d879f-c7b8-4864-bb29-604b7a08e731",
+      "start_time": 2012.08,
+      "end_time": 2029.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, it's not something one could have anticipated. But it's there. And I think that there will be new constituencies of folk, joining African Americans in the journey toward the future of African"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "cc28f154-a27f-4059-b5dc-17a66968d3ef",
+      "start_time": 2029.66,
+      "end_time": 2030.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "American poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e4460f49-3163-43dd-8b3d-8b3206f2af74",
+      "start_time": 2034.43,
+      "end_time": 2044.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well make me feel for the moment that perhaps that middle class will somehow discover W.E.B. Dubois."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "9302a78f-e0d2-45af-9f7e-07e55f63b6c6",
+      "start_time": 2045.05,
+      "end_time": 2045.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would be nice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a064cefc-bf41-41f0-baf2-000f9c89c1c2",
+      "start_time": 2046.43,
+      "end_time": 2060.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And somehow suggest to itself that maybe, since we have such great privileges, we should reach out and bring forward some people. I'm not gonna say who. They may not be African Americans,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "42994809-7587-418b-b4b4-e7d80e63729c",
+      "start_time": 2060.26,
+      "end_time": 2061.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they may be other people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "3e63dfea-04ff-49bf-ae60-c50a6ee3e000",
+      "start_time": 2062.93,
+      "end_time": 2077.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the tradition of caring that I spoke about earlier today-- doing something out of a sense of love and even poetry coming out of that sense that if you read Toni Morrison's most recent novel,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2a0381f3-7c03-4adb-909f-5a4a690b05f7",
+      "start_time": 2077.75,
+      "end_time": 2092.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love, you will understand why I'm so concerned about it because her analysis of what love is and is not is exceptionally provocative. That's a good word, isn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "510c0735-cdc1-4aff-84bb-fb20804d4599",
+      "start_time": 2092.98,
+      "end_time": 2094.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a nice word."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "04a114f1-e949-45ad-877c-9d5bb6e6b916",
+      "start_time": 2094.3,
+      "end_time": 2104.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very, very provocative, and I think she's on target about that. So if you don't have that condition, that tradition of the village, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "624f58de-396e-4a46-90e3-9c143459e837",
+      "start_time": 2104.41,
+      "end_time": 2105.73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "2a7bb210-9e3a-400d-ad6d-7584777e633b",
+      "start_time": 2105.73,
+      "end_time": 2121.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which we like to talk about all of the time. If you don't have that somehow in your national conduct of everyday life, then perhaps the poetry that you do produce will lend itself to, or"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5bdfd8ca-759a-4f32-922e-947bbcbb978e",
+      "start_time": 2121.93,
+      "end_time": 2130.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "will be very vulnerable to those forces that we also talked about this morning, the forces of capitalism which can be deadly for art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4b9b7628-4596-418e-b22f-133a3d518996",
+      "start_time": 2130,
+      "end_time": 2146.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's right. I mean, I think that in some ways, everything has changed as I walk about on the earth. And then in other ways, I guess I'm enough of both a traditionalist and an"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "35b75b2a-96cb-4934-8b3b-2eaf76291a25",
+      "start_time": 2146.62,
+      "end_time": 2163.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "idealist-- a traditional idealist as it were-- to believe that one makes converts one at a time, and that it's easy, in revolutionary times, to mistake enthusiasts for converts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "13984829-ee3b-4b30-a107-9524cc863838",
+      "start_time": 2164.47,
+      "end_time": 2184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I think that the praxis of our criticism, and of our teaching, and the necessity of our integrity, and the perseverance of our spirits, is going to allow us to engage in that practice of making"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "509757ef-e9e0-4e1a-a32b-1c6616f6721b",
+      "start_time": 2184.36,
+      "end_time": 2189.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sincere, devoted, dedicated, working converts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "90beab7c-ff56-4c61-a3b0-aee265b76757",
+      "start_time": 2190.42,
+      "end_time": 2206.05,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're going to be successful in it. It may not look as flourishing as it did at one time. But I do have a faith that it's going on, that people like you and many, many others have shoulder to the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d3ce71d1-e4e8-4d1a-9aff-532d8134ccb6",
+      "start_time": 2206.05,
+      "end_time": 2227.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "wheel. And what so impresses me now, I must say, in this younger generation, is that those who do have the gift, and who do have the will-- along with enthusiasm, to be sure-- are harder workers and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a89f89b9-efe6-4b03-ae20-740d6851a27e",
+      "start_time": 2227.62,
+      "end_time": 2233.05,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more generous of spirit than any group of people I have ever seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "be29ae12-61be-4222-8d00-6733dc85fc93",
+      "start_time": 2233.44,
+      "end_time": 2251.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a counter (of course) population, youthful, to what I've just described. But those who are there, and in the spirit and doing the work, are an amazing, beautiful, talented, generous group of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c94c0a59-a90f-4024-a407-07b91c7659e8",
+      "start_time": 2251.53,
+      "end_time": 2268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people. And part of what we do is to facilitate ways for it to be easy for them to lend their energy actively to the cause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "6752b7d4-a567-4213-8e59-8c277e623212",
+      "start_time": 2268.39,
+      "end_time": 2278.44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many of those young people are at this conference. And I think, Houston, they certainly stand in relation to you and to me, in the same way that we stood in relation to ghostwriters in the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "a438d89a-3fa2-411d-a634-98d2d1fcea5f",
+      "start_time": 2278.44,
+      "end_time": 2280.09,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "College Language Association."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "ab83e9d0-b1a5-4636-8d41-a91389d283cf",
+      "start_time": 2280,
+      "end_time": 2297.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, it was a little bit combative, but we did have respect for them and for their contributions. And even though we had very different minds about where to go, we did not lose sight"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "946a4571-0ab1-4f2a-9d2b-6c857715a4b8",
+      "start_time": 2280.21,
+      "end_time": 2280.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "d9b84a88-d21a-41eb-b29d-6d77464b8300",
+      "start_time": 2297.85,
+      "end_time": 2305.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of their contributions, as you very nicely reminded us in your work on critical shifts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "c41bc937-cbd1-46da-b255-11d589c8de94",
+      "start_time": 2307.03,
+      "end_time": 2325.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The paradigms will change, but you still have, whether you say it aloud or not, a sense of respect for struggles in the past, that even if they're not of immediate use to you, are there and have to be"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "226a912b-b1fc-4979-98b4-b65afd7f0195",
+      "start_time": 2325.54,
+      "end_time": 2328.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "somehow incorporated in the work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "4b61fb61-fb99-4c05-b9f1-75d8cdeb3270",
+      "start_time": 2329.8,
+      "end_time": 2341.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think with that note, we should probably leave that bridge of possibility and we'll begin a kind of conversation much sooner, it won't be that many years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "002da321-6a33-4e05-9b5b-d35847f8a198",
+      "start_time": 2341.41,
+      "end_time": 2341.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "dd55509d-dc99-4a5c-8290-38d60f552040",
+      "start_time": 2341.8,
+      "end_time": 2343.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once again. Thank you, Jerry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "5665f45d-248c-4da8-b1c6-4b018d630628",
+      "start_time": 2343.39,
+      "end_time": 2343.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f0073d0e-a1f1-4926-8ee5-f3fe30aa17cd",
+      "start_time": 2343.84,
+      "end_time": 2344.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "771dbcc0-a523-4fc4-b004-8b2072580f41",
+      "start_time": 2344.62,
+      "end_time": 2345.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "f4a27132-5736-4670-8d37-ed8a2c202ea1",
+      "start_time": 2346.26,
+      "end_time": 2350.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really nice. Thank you. Don't move yet. If you want to just talk, maybe. One at a time [Inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "1809c8c1-2549-4551-abaf-9494b1bf9caf",
+      "start_time": 2350.37,
+      "end_time": 2353.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Okay, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "282533f5-bf11-4e80-9a7d-4522990f6866",
+      "start_time": 2353.25,
+      "end_time": 2354.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well that was a wonderful conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jerry W. Ward, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "aa3553b7-c62d-471c-9bcb-1a2926367d50",
+      "start_time": 2354.3,
+      "end_time": 2365.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks. That's one of my favorite poems. And the, the people who make it up include the doctor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "8dce68e8-eda8-4e6c-acf4-300c0676c13f",
+      "start_time": 2365.7,
+      "end_time": 2382.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Jackson. My maternal grandmother was called a receptionist for the doctor, but she showed up at his house at 5:30 each morning and made all the fires in the house. Cooked breakfast for Dr. and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    },
+    {
+      "uuid": "e6801b9b-415f-4b74-ad3a-41b955c8fb7a",
+      "start_time": 2382.47,
+      "end_time": 2386.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Jackson, cleaned the house, was given 40 minute--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Houston A. Baker, Jr."
+        }
+      ]
+    }
+  ],
   "set": "Default",
   "event_id": "7f91dcbb-b9b6-40cd-b867-bee22ba9728a",
   "source_id": "7b4d6189-4e08-4706-a103-674aaaf3d050"
