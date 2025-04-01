@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7b4d6189-4e08-4706-a103-674aaaf3d050": {
+      "label": "FF0136",
+      "is_offline": false,
+      "file_url": "https://apps.lib.jmu.edu/audiannotate/FF136.mp4",
+      "duration": 2397
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "FF0136",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jerry Washington Ward interviews Houston A. Baker, Jr., camera stays on Baker"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-01T21:46:41.997Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-04-01T21:46:41.997Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
