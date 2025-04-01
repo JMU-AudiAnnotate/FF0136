@@ -15,7 +15,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<p style=\"text-align:center\"><img src=\"https://apps.lib.jmu.edu/audiannotate/images/furious-flower-logo.jpg\"></p>"
+          "text": "https://apps.lib.jmu.edu/audiannotate/images/furious-flower-logo.jpg",
+          "link": "https://apps.lib.jmu.edu/audiannotate/images/furious-flower-logo.jpg"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "https://apps.lib.jmu.edu/audiannotate/images/houston_baker.jpg",
+          "link": "https://apps.lib.jmu.edu/audiannotate/images/houston_baker.jpg"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Houston A. Baker, Jr.",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Houston A. Baker Jr. is a literary and cultural theorist, poet, historian, and educator who has worked to integrate theories of black aesthetics and modernism into the white exclusionary and racist spaces of academia. Through his work in literary criticism in the 1970s and ‘80s, Baker has helped to redefine modernism, placing the Harlem Renaissance at its core, and has given theories of vernacular and oral cultural production due importance and authority. As Richard J. Lane notes of Baker, \"in interrogating and mapping the black aesthetic, Baker has taught critics new ways of reading literature in general\".<a href=\"#fn1\"><sup>[1]</sup></a></p>"
         }
       ]
     },
@@ -23,7 +53,42 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<p style=\"text-align:center\"><img src=\"https://apps.lib.jmu.edu/audiannotate/images/houston_baker.jpg\"></p>"
+          "text": "Among Baker’s published works are his "
+        },
+        {
+          "text": "Black Literature in America",
+          "italic": true
+        },
+        {
+          "text": ", one of the first comprehensive anthologies of Black writers, "
+        },
+        {
+          "text": "Modernism and the Harlem Renaissance",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Betrayal: How Black Intellectuals have Abandoned the Ideals of the Civil Rights Era",
+          "italic": true
+        },
+        {
+          "text": ", which received an American Book Award. His poetry collections include "
+        },
+        {
+          "text": "No Matter Where You Travel, You Still Be Black",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Passing Over",
+          "italic": true
+        },
+        {
+          "text": ". He was the first African American to serve as the president of the Modern Language Association, and is currently the Distinguished University Professor of English at Vanderbilt University."
         }
       ]
     },
@@ -31,63 +96,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<h1 style=\"text-align:center\">Houston A. Baker, Jr.</h1>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Baker’s collection "
+        },
         {
-          "text": "<hr>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "No Matter Where you Travel, You Still be Black",
+          "italic": true
+        },
         {
-          "text": "<p>Houston A. Baker Jr. is a literary and cultural theorist, poet, historian, and educator who has worked to integrate theories of black aesthetics and modernism into the white exclusionary and racist spaces of academia. Through his work in literary criticism in the 1970s and ‘80s, Baker has helped to redefine modernism, placing the Harlem Renaissance at its core, and has given theories of vernacular and oral cultural production due importance and authority. As Richard J. Lane notes of Baker, \"in interrogating and mapping the black aesthetic, Baker has taught critics new ways of reading literature in general\".<a href=\"#fn1\"><sup>[1]</sup></a></p>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": " carries the themes of wandering, dislocation, and search through his condensed portraits and landscapes. The numerous dedications make his first book of poems a deeply personal meditation on literary and scholarly solidarity, friendship, and love. His later collection, "
+        },
         {
-          "text": "<p>Among Baker’s published works are his <i>Black Literature in America</i>, one of the first comprehensive anthologies of Black writers, <i>Modernism and the Harlem Renaissance</i>, and <i>Betrayal: How Black Intellectuals have Abandoned the Ideals of the Civil Rights Era</i>, which received an American Book Award. His poetry collections include <i>No Matter Where You Travel, You Still Be Black</i> and <i>Passing Over</i>. He was the first African American to serve as the president of the Modern Language Association, and is currently the Distinguished University Professor of English at Vanderbilt University.</p>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Passing Over",
+          "italic": true
+        },
         {
-          "text": "<p>Baker’s collection <i>No Matter Where you Travel, You Still be Black</i> carries the themes of wandering, dislocation, and search through his condensed portraits and landscapes. The numerous dedications make his first book of poems a deeply personal meditation on literary and scholarly solidarity, friendship, and love. His later collection, <i>Passing Over</i>, explores the power of poetry to help confront and mend trauma through the vibrant music and healing silences of nature. As Toi Derricotte notes in her review of the collection, \"Charting a journey through despair and back to love, Houston Baker proves the grace of poetry.\""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<a href=\"#fn2\"><sup>[2]</sup></a><hr>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<p> <a href=\"https://furiousflower.org/jerry-ward-jr\">Jerry W. Ward, Jr.</a> is a poet and scholar who has published poetry collections, such as <i>Fractal Song</i>, as well as essays and critical reviews in publications such as <i>Callaloo</i>, <i>The Southern Quarterly</i>, and <i>New Orleans Review</i>. He has edited several major anthologies, has won multiple awards for his work, and was inducted into the <i>International Literary Hall of Fame for Writers of African Descent</i> in 2001. He retired from his position at Dillard University in 2012, and  currently serves on the board of Kansas University’s Project on the History of Black Writing.</p>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<p>In this interview with Jerry Ward, Houston Baker discusses his experiences of academia in the 1970s, his first book of poetry, Rap as a form of artistic production deserving critical and scholarly attention, and his pedagogical practices in teaching the younger generation of emerging poets and scholars.</p>"
+          "text": ", explores the power of poetry to help confront and mend trauma through the vibrant music and healing silences of nature. As Toi Derricotte notes in her review of the collection, \"Charting a journey through despair and back to love, Houston Baker proves the grace of poetry.\""
         }
       ]
     },
@@ -103,7 +126,76 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<hr>"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "https://furiousflower.org/jerry-ward-jr",
+          "link": "https://furiousflower.org/jerry-ward-jr"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jerry W. Ward, Jr. is a poet and scholar who has published poetry collections, such as "
+        },
+        {
+          "text": "Fractal Song",
+          "italic": true
+        },
+        {
+          "text": ", as well as essays and critical reviews in publications such as "
+        },
+        {
+          "text": "Callaloo",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "The Southern Quarterly",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "New Orleans Review",
+          "italic": true
+        },
+        {
+          "text": ". He has edited several major anthologies, has won multiple awards for his work, and was inducted into the "
+        },
+        {
+          "text": "International Literary Hall of Fame for Writers of African Descent",
+          "italic": true
+        },
+        {
+          "text": " in 2001. He retired from his position at Dillard University in 2012, and  currently serves on the board of Kansas University’s Project on the History of Black Writing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this interview with Jerry Ward, Houston Baker discusses his experiences of academia in the 1970s, his first book of poetry, Rap as a form of artistic production deserving critical and scholarly attention, and his pedagogical practices in teaching the younger generation of emerging poets and scholars."
         }
       ]
     },
@@ -119,7 +211,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<h3>More Information</h3>"
+          "text": "More Information",
+          "bold": true
         }
       ]
     },
@@ -132,18 +225,36 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulleted-list",
       "children": [
         {
-          "text": "<ul><li><p><a href=\"https://www.jstor.org/stable/2904136\">Interview</a> with Jerry W. Ward, Jr. from 1982. Discusses difference between philosophy and theory, the racism of white theorists and critics claiming to have \"universal\" paradigms for literary theory, and the stakes and methods of forming a Black aesthetic paradigm.</p></li></ul>"
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview",
+              "link": "https://www.jstor.org/stable/2904136"
+            },
+            {
+              "text": " with Jerry W. Ward, Jr. from 1982. Discusses difference between philosophy and theory, the racism of white theorists and critics claiming to have \"universal\" paradigms for literary theory, and the stakes and methods of forming a Black aesthetic paradigm."
+            }
+          ]
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulleted-list",
       "children": [
         {
-          "text": "<ul><li><p><a href=\"https://www.jstor.org/stable/10.5149/9781469627724_matthew.5\">Interview</a> with Ayanna Jackson-Fowler. Discuss the tokenization of Black scholars by academic institutions, his response and stance against racism in a predominantly white academia, and his advice to minority scholars and students.</p></li></ul> "
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Interview",
+              "link": "https://www.jstor.org/stable/10.5149/9781469627724_matthew.5"
+            },
+            {
+              "text": " with Ayanna Jackson-Fowler. Discuss the tokenization of Black scholars by academic institutions, his response and stance against racism in a predominantly white academia, and his advice to minority scholars and students."
+            }
+          ]
         }
       ]
     },
@@ -159,7 +270,65 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<b>Essays:</b>"
+          "text": "Essays:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "\""
+            },
+            {
+              "text": "Spike Lee and the Commerce of Culture",
+              "link": "https://www.jstor.org/stable/3041685"
+            },
+            {
+              "text": "\": Baker analyzes two of Spike Lee’s films, describing the aesthetic, narrative, and ideological investments appearing early in Lee’s career."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Intuiting Archive: Notes for a Post-Trauma Poetics",
+              "link": "https://www.jstor.org/stable/26443973"
+            },
+            {
+              "text": "\": Baker compares the notion of the archive as it appears in Hurston and Derrida. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "\""
+            },
+            {
+              "text": "The Black Bottom Line: Reflections on Ferguson, Black Lives Matter, and White Male Violence in America\"",
+              "link": "https://www.jstor.org/stable/26360782"
+            },
+            {
+              "text": ": Baker links contemporary white male violence to his economic concept of the \"Black bottom line\", and the history of settler colonialism and slavery in the U.S. Concludes with a short reading list of timely historical-literary analyses."
+            }
+          ]
         }
       ]
     },
@@ -167,7 +336,31 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<ul><li><p><a href=\"https://www.jstor.org/stable/3041685\">\"Spike Lee and the Commerce of Culture\"</a>: Baker analyzes two of Spike Lee’s films, describing the aesthetic, narrative, and ideological investments appearing early in Lee’s career.</p></li></ul>"
+          "text": "  "
+        },
+        {
+          "text": "Other:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Houston Baker's "
+            },
+            {
+              "text": "Faculty page",
+              "link": "https://as.vanderbilt.edu/aads/people/houston-baker.php"
+            },
+            {
+              "text": " for Vanderbilt University."
+            }
+          ]
         }
       ]
     },
@@ -175,55 +368,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<ul><li><p><a href=\"https://www.jstor.org/stable/26443973\">\"Intuiting Archive: Notes for a Post-Trauma Poetics\"</a>: Baker compares the notion of the archive as it appears in Hurston and Derrida. </p></li></ul>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<ul><li><p><a href=\"https://www.jstor.org/stable/26360782\">\"The Black Bottom Line: Reflections on Ferguson, Black Lives Matter, and White Male Violence in America\"</a>: Baker links contemporary white male violence to his economic concept of the \"Black bottom line\", and the history of settler colonialism and slavery in the U.S. Concludes with a short reading list of timely historical-literary analyses.</p></li></ul>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "  <b>Other:</b>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<ul><li><p>Houston Baker's <a href=\"https://as.vanderbilt.edu/aads/people/houston-baker.php\">Faculty page</a> for Vanderbilt University.</p></li></ul>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<hr>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<p><a name=\"fn1\">[1]</a>:Lane, Richard J. <i>Fifty Key Literary Theorists</i>. New York: Routledge, 2006.</p>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "<p><a name=\"fn2\">[2]</a>:Baker, Houston A., Jr. <i>Passing Over</i>. Detroit: Lotus Press, 2000.</p>"
+          "text": ""
         }
       ]
     },
@@ -238,6 +383,6 @@
   ],
   "created_at": "2025-03-28T17:53:41.576Z",
   "created_by": "JMU-AudiAnnotate",
-  "updated_at": "2025-04-01T19:57:20.152Z",
+  "updated_at": "2025-04-01T20:19:25.053Z",
   "updated_by": "JMU-AudiAnnotate"
 }
