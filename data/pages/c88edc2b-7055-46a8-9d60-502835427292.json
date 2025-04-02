@@ -1,0 +1,166 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://apps.lib.jmu.edu/audiannotate/images/furious-flower-logo.jpg",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://apps.lib.jmu.edu/audiannotate/images/houston_baker.jpg",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Houston A. Baker, Jr.",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Houston A. Baker Jr. is a literary and cultural theorist, poet, historian, and educator who has worked to integrate theories of black aesthetics and modernism into the white exclusionary and racist spaces of academia. Through his work in literary criticism in the 1970s and ‘80s, Baker has helped to redefine modernism, placing the Harlem Renaissance at its core, and has given theories of vernacular and oral cultural production due importance and authority. As Richard J. Lane notes of Baker, \"in interrogating and mapping the black aesthetic, Baker has taught critics new ways of reading literature in general\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Among Baker’s published works are his "
+        },
+        {
+          "bold": true,
+          "text": "Black Literature in America",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": ", one of the first comprehensive anthologies of Black writers, "
+        },
+        {
+          "bold": true,
+          "text": "Modernism and the Harlem Renaissance",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": ", and "
+        },
+        {
+          "bold": true,
+          "text": "Betrayal: How Black Intellectuals have Abandoned the Ideals of the Civil Rights Era",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": ", which received an American Book Award. His poetry collections include "
+        },
+        {
+          "bold": true,
+          "text": "No Matter Where You Travel, You Still Be Black",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": " and "
+        },
+        {
+          "bold": true,
+          "text": "Passing Over",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": ". He was the first African American to serve as the president of the Modern Language Association, and is currently the Distinguished University Professor of English at Vanderbilt University."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Baker’s collection "
+        },
+        {
+          "bold": true,
+          "text": "No Matter Where you Travel, You Still be Black",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": " carries the themes of wandering, dislocation, and search through his condensed portraits and landscapes. The numerous dedications make his first book of poems a deeply personal meditation on literary and scholarly solidarity, friendship, and love. His later collection, "
+        },
+        {
+          "bold": true,
+          "text": "Passing Over",
+          "italic": true
+        },
+        {
+          "bold": true,
+          "text": ", explores the power of poetry to help confront and mend trauma through the vibrant music and healing silences of nature. As Toi Derricotte notes in her review of the collection, \"Charting a journey through despair and back to love, Houston Baker proves the grace of poetry.\""
+        }
+      ]
+    }
+  ],
+  "title": "Houston A. Baker, Jr. Bio",
+  "parent": "ccc56163-3e68-44b3-a97a-f068ce25eb1d",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "houston-a-baker-jr-bio",
+  "created_at": "2025-04-02T11:52:02.440Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-04-02T11:52:02.440Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
