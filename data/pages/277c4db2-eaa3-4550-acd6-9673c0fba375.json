@@ -38,7 +38,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -53,7 +54,7 @@
   "created_by": "JMU-AudiAnnotate",
   "title": "FF0136",
   "slug": "ff0136",
-  "updated_at": "2025-04-29T19:11:08.324Z",
+  "updated_at": "2025-04-29T19:22:11.194Z",
   "updated_by": "JMU-AudiAnnotate",
   "parent": "ccc56163-3e68-44b3-a97a-f068ce25eb1d",
   "autogenerate": {
