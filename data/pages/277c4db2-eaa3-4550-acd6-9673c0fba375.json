@@ -54,11 +54,11 @@
   "created_by": "JMU-AudiAnnotate",
   "title": "FF0136",
   "slug": "ff0136",
-  "updated_at": "2025-04-29T19:25:31.596Z",
+  "updated_at": "2025-04-29T19:27:40.807Z",
   "updated_by": "JMU-AudiAnnotate",
   "parent": "ccc56163-3e68-44b3-a97a-f068ce25eb1d",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "7f91dcbb-b9b6-40cd-b867-bee22ba9728a"
   }
