@@ -21,10 +21,10 @@
   "created_at": "2025-03-28T17:45:08.421Z",
   "created_by": "JMU-AudiAnnotate",
   "title": "Houston A. Baker, Jr. Interview, 9/23/2004 (FF0136)",
-  "updated_at": "2025-04-29T19:16:50.216Z",
+  "updated_at": "2025-04-29T19:18:48.167Z",
   "updated_by": "JMU-AudiAnnotate",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
